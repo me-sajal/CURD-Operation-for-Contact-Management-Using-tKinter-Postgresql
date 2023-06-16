@@ -15,4 +15,4 @@ CREATE TABLE INFO(
 """
 
 cursor.execute(sql)
-print("Table created successfully ! thanku")
+print("Table created successfully !")
